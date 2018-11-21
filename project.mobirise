@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Grafisch Ontwerp 2BA-clone",
-    "currentPage": "index.html",
+    "name": "Emmely Comhaire",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -69,7 +69,9 @@
     ],
     "uniqCompNum": 132,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dubbel-3-128x181.png",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
