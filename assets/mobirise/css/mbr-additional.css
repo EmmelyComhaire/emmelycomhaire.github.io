@@ -9663,3 +9663,26 @@ body {
     width: 100% !important;
   }
 }
+.cid-ra9g1w13P1 {
+  background: #ffffff;
+}
+.cid-ra9g1w13P1 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-ra9g1w13P1 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-ra9g1w13P1 figcaption {
+  position: relative;
+}
+.cid-ra9g1w13P1 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ra9g1w13P1 .image-block {
+    width: 100% !important;
+  }
+}
