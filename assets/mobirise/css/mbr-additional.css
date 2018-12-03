@@ -1294,19 +1294,6 @@ body {
 .cid-r4PXeADN5v H1 {
   color: #ffffff;
 }
-.cid-rbb6luKWb5 {
-  background: #0f7699;
-  background: linear-gradient(0deg, #0f7699, #ffffff);
-}
-.cid-rbb6luKWb5 .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rbb6luKWb5 .video-block {
-    width: 100% !important;
-  }
-}
 .cid-r5q3e97C61 .navbar {
   background: #ffffff;
   transition: none;
